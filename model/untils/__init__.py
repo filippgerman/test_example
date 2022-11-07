@@ -1,0 +1,2 @@
+from model.untils.check_word_presence_cyrillic_letters import check_word_presence_cyrillic_letters
+from model.untils.check_word_presence_latin_letters import check_word_presence_latin_letters
